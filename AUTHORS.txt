@@ -2,4 +2,6 @@
 # This file is distinct from the CONTRIBUTORS files.
 # See the latter at http://expandjs.github.io/CONTRIBUTORS.txt.
 
-Digital Domain
+Giuliano Rullo <g.rullo@expandjs.com>
+Maurizio Stefàno <m.stefano@expandjs.com>
+Robert Manolea <r.manolea@expandjs.com>
